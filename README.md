@@ -9,6 +9,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Vampyteuth is short for Vampyroteuthis infernalis or Vampire Squid from Hell 
 
-![Vampyroteuthis infernalis](https://user-images.githubusercontent.com/94151404/181412053-4ace610c-52a3-4bc0-8333-06668d590943.gif)
+![Vampyroteuthis infernalis (2)](https://user-images.githubusercontent.com/94151404/181654436-d9cb000b-9c03-46aa-b46d-1eb04705b027.gif)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vampyteuth&theme=github-green-purple&background=79CCDD&ring=D498B2&sideNums=FFF059&fire=FFF059&sideLabels=D6DD9F&currStreakLabel=8E8BDD&border=DDD4D4&currStreakNum=8E8BDD)](https://git.io/streak-stats)
