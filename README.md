@@ -11,5 +11,4 @@
 
 ![Vampyroteuthis infernalis](https://user-images.githubusercontent.com/94151404/181412053-4ace610c-52a3-4bc0-8333-06668d590943.gif)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vampyteuth&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&stroke=466ADD&currStreakNum=C9DDD6&currStreakLabel=DDC394&dates=DDA8CB)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vampyteuth&theme=github-green-purple&background=79CCDD&ring=D498B2&sideNums=FFF059&fire=FFF059&sideLabels=D6DD9F&currStreakLabel=8E8BDD&border=DDD4D4&currStreakNum=8E8BDD)](https://git.io/streak-stats)
