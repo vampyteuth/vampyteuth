@@ -2,12 +2,12 @@
 
 ### I am Vampyteuth 👋
 
-- 🔭 I’m currently working on a student portal to access homework, resources, and help
-- 🌱 I’m am learning Express
-- 👯 I’m always looking to collaborate on projects that make humans tolerate each other better!
-- 📫 Find me occasionally on Twitter @terrahanks
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Vampyteuth is short for Vampyroteuthis infernalis or Vampire Squid from Hell 
+ - 🥽 I’m currently working on a student portal to access homework, resources, and help
+ - 👩🏻‍💻 I’m am learning Express
+ - 👯 I’m always looking to collaborate on projects that make humans tolerate each other better!
+ - 🐣 Find me occasionally on Twitter @terrahanks
+ - 🙋🏻‍♀️ Pronouns: She/Her
+ - 🐙 Fun fact: Vampyteuth is short for Vampyroteuthis infernalis or Vampire Squid from Hell 
 
 ![Vampyroteuthis infernalis (2)](https://user-images.githubusercontent.com/94151404/181654436-d9cb000b-9c03-46aa-b46d-1eb04705b027.gif)
 
