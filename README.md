@@ -11,5 +11,7 @@
 
 ![Vampyroteuthis infernalis (2)](https://user-images.githubusercontent.com/94151404/181654436-d9cb000b-9c03-46aa-b46d-1eb04705b027.gif)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vampyteuth&theme=github-green-purple&background=79CCDD&ring=D498B2&sideNums=FFF059&fire=FFF059&sideLabels=D6DD9F&currStreakLabel=8E8BDD&border=DDD4D4&currStreakNum=8E8BDD)](https://git.io/streak-stats) <br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vampyteuth&theme=tokyonight&background=61C2DD&fire=C1DD5C&currStreakNum=7051DD&sideNums=C1DD5C&currStreakLabel=C1DD5C&dates=DADDDC&ring=DD8DBA)](https://git.io/streak-stats)
+<br>
 ⬆️ made with DenverCoder1's streak stats https://github.com/DenverCoder1/github-readme-streak-stats.git
