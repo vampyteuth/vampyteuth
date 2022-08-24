@@ -3,7 +3,7 @@
 ### I am Vampyteuth 👋
 
  - 🥽 I’m currently working on a student portal to access homework, resources, and help
- - 👩🏻‍💻 I’m am learning Express
+ - 👩🏻‍💻 I’m am learning Express, Node.js, MVC
  - 👯 I’m always looking to collaborate on projects that make humans tolerate each other better!
  - 🐣 Find me occasionally on Twitter @terrahanks
  - 🙋🏻‍♀️ Pronouns: She/Her
